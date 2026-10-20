@@ -46,7 +46,7 @@ ul { list-style: none; }
 .navbar { height: 100%; display: flex; align-items: center; justify-content: space-between; }
 .logo { font-size: 1.7rem; font-weight: 850; letter-spacing: -1.5px; }
 .logo span { color: var(--accent-blue); }
-.logo-icon { width: 10px; height: 10px; object-fit: contain; }
+.logo-icon { width: 25px; height: 25px; object-fit: contain; }
 .nav-menu { display: flex; align-items: center; gap: 24px; }
 .nav-link { position: relative; display: inline-block; padding: 8px 0; color: var(--muted); font-size: .85rem; font-weight: 500; transition: color var(--transition); }
 .nav-link:hover, .nav-link.active { color: var(--text); }
